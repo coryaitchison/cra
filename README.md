@@ -6,4 +6,4 @@ Learning Git and GitHub (SCTPG), on 2 November 2018
 
 1. number one
 
->>quote
+>quote
